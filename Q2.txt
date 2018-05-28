@@ -1,0 +1,17 @@
+You are given a textfile that contains the age (Integer) of the people. The age.txt contains the age of the whole world (7 Billion People). And you only have a shitty laptop with 1GB of RAM. 
+
+Write a script/program in Python or Java or Scala that takes this file name as an input, and produce an output file that contains the sorted age in the same format. You and again, you are not allowed to use any external library besides the built-in library for the language that you choose.
+
+Example age.txt:
+============================
+23
+51
+35
+============================
+
+Example sorted_age.txt:
+============================
+23
+35
+51
+============================
